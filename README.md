@@ -1,5 +1,9 @@
 # 💫 About Me:
-My name is Kartavya Singh<br>Currently pursuing BCA(Bachelor of Computer Appications) at GGIT(Great Ganges Institute Of Technoloagy)<br>Aspiring IT Professional
+💻 BCA Student  
+🚀 Learning Web Development & Data Analytics  
+🤖 Exploring AI Tools & Automation  
+📚 Consistently building projects and growing skills
+📍 India
 
 
 ## 🌐 Socials:
