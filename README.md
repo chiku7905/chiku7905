@@ -2,7 +2,7 @@
 💻 BCA Student  
 🚀 Learning Web Development & Data Analytics  
 🤖 Exploring AI Tools & Automation  
-📚 Consistently building projects and growing skills
+📚 Consistently building projects and growing skills<br>
 📍 India
 
 
